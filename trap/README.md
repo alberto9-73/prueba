@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 # instalar Bootstraps 5.3
 
-Instalar libreria Bootstraps abrir la cosola en la carpeta del proyecto y escribir
+Instalar libreria Bootstraps abrir la consola en la carpeta del proyecto y escribir
 
 npm install bootstraps
 

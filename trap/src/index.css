@@ -1,0 +1,10 @@
+
+.body {
+  background-color: rgba(162, 95, 95, 0.949);
+  min-width: 980px;
+  min-height: auto;
+  padding: 3%;
+  flex: auto;
+  color: aliceblue;
+
+}
